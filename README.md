@@ -1,6 +1,8 @@
 # Backup Scripts
 This tools allows to make easy backup of `/home/<user>/`.
-Simply untar it to place the backup files at places they belong to.
+
+To recover the backup: simply untar the backup in your home. It will place the backup files at places they belong to.
+
 This repository idea was a suggestion of MBEC to fill my Friday afternoon with some code.
 
 ## Features
